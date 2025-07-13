@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">👋 ¡Hola! Soy Hell</h1>
 
-<!--
-**nukecord/nukecord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🧠 Desarrollador Full Stack & Minecraft Plugin Dev<br>
+  💻 Java · Python · Node.js · HTML · Minecraft Modding<br>
+  ⚒️ Spigot · Fabric · Web APIs · CLI Tools
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades técnicas
+
+```txt
+🟧 Java              ██████████░░░░  80%
+🟦 Node.js           █████████░░░░  70%
+🐍 Python            ████████░░░░░  65%
+🌐 HTML/CSS          ███████░░░░░░  60%
+🎮 Minecraft Plugins ██████████░░░  85%
