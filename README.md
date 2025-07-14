@@ -23,32 +23,15 @@
 
 ---
 
-## 📊 Skills (nivel visual real)
+## 📊 Skills (visual con barra de progreso)
 
-<p>
-  <strong>Java</strong><br>
-  <progress value="80" max="100"></progress> 80%
-</p>
-<p>
-  <strong>Node.js</strong><br>
-  <progress value="70" max="100"></progress> 70%
-</p>
-<p>
-  <strong>Python</strong><br>
-  <progress value="65" max="100"></progress> 65%
-</p>
-<p>
-  <strong>HTML/CSS</strong><br>
-  <progress value="60" max="100"></progress> 60%
-</p>
-<p>
-  <strong>Minecraft Plugins</strong><br>
-  <progress value="85" max="100"></progress> 85%
-</p>
-<p>
-  <strong>Git / GitHub</strong><br>
-  <progress value="60" max="100"></progress> 60%
-</p>
+```text
+🟧 Java              ██████████░░░░  80%
+🟩 Node.js           ████████░░░░░░  70%
+🐍 Python            ███████░░░░░░░  65%
+🌐 HTML/CSS          ██████░░░░░░░░  60%
+🎮 Minecraft Plugins ██████████░░░░  85%
+🔧 Git / GitHub      ██████░░░░░░░░  60%
 
 ---
 
