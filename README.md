@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Desarrollador+de+Minecraft+Plugins;Java+%2F+Python+%2F+Node.js+%2F+HTML;Staff+Tools+%2F+Fabric+%2F+Spigot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Desarrollador+de+Minecraft+Plugins;Java+%2F+Python+%2F+Node.js+%2F+HTML;Back-End+%7C+StaffTools+%7C+Modding" alt="Typing SVG" />
 </p>
 
 ---
@@ -23,7 +23,7 @@
 
 ---
 
-## 📋 Skills (nivel aproximado)
+## 📊 Skills (nivel aproximado)
 
 ```txt
 🟧 Java              ██████████░░░  80%
@@ -31,3 +31,5 @@
 🐍 Python            ████████░░░░  65%
 🌐 HTML/CSS          ███████░░░░░  60%
 🎮 Minecraft Plugins ██████████░░  85%
+📁 Git / GitHub      ███████░░░░░  60%
+
