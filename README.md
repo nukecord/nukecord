@@ -25,51 +25,66 @@
 
 ## 📊 Skills (visual con barra de progreso)
 
-```text
-🟧 Java              ██████████░░░░  80%
-🟩 Node.js           ████████░░░░░░  70%
-🐍 Python            ███████░░░░░░░  65%
-🌐 HTML/CSS          ██████░░░░░░░░  60%
-🎮 Minecraft Plugins ██████████░░░░  85%
+🟧 Java              ██████████░░░░  80%  
+🟩 Node.js           ████████░░░░░░  70%  
+🐍 Python            ███████░░░░░░░  65%  
+🌐 HTML/CSS          ██████░░░░░░░░  60%  
+🎮 Minecraft Plugins ██████████░░░░  85%  
 🔧 Git / GitHub      ██████░░░░░░░░  60%
-🌍 Servidores de Minecraft
-🛡️ ParadiseMC
-Red de PvP moderado con herramientas de staff, inspección, y logs avanzados.
 
-🌲 ShadowSurvival
-Survival técnico con economía, habilidades y protección de zonas.
+---
 
-❄️ FreezeLand
-Red de práctica para pruebas de staff y comandos personalizados.
+## 🌍 Servidores de Minecraft
 
-🧪 DevZone
-Servidor privado de testeo para mis proyectos en Java y Fabric.
+- 🛡️ **ParadiseMC**  
+  Red de PvP moderado con herramientas de staff, inspección, y logs avanzados.
 
-🌐 Servidores de Discord
-🛠️ StaffControl Discord
-Comunidad de staff de servidores Minecraft con herramientas y soporte.
+- 🌲 **ShadowSurvival**  
+  Survival técnico con economía, habilidades y protección de zonas.
 
-👨‍💻 DevPlugins Hell
-Servidor donde publico mis plugins, doy soporte, y comparto utilidades.
+- ❄️ **FreezeLand**  
+  Red de práctica para pruebas de staff y comandos personalizados.
 
-🧪 BetaTesters
-Grupo privado de testeo donde lanzo versiones beta de mis mods, bots y plugins.
+- 🧪 **DevZone**  
+  Servidor privado de testeo para mis proyectos en Java y Fabric.
 
-📦 Proyectos destacados
-🧊 StaffTeamHelp
-Plugin de administración para staff con funciones como freeze, vanish, chatfreeze, staffchat y más.
+---
 
-🔐 Discord OTP Verifier
-Sistema seguro para vincular cuentas de Minecraft y Discord usando códigos OTP.
+## 🌐 Servidores de Discord
 
-🗺️ WorldDump
-Plugin que guarda los chunks cargados en sesiones únicas para revisión del mundo.
+- 🛠️ **StaffControl Discord**  
+  Comunidad de staff de servidores Minecraft con herramientas y soporte.
 
-⚙️ ClientUtils Fabric
-Utilidades internas para clientes de Minecraft hechos en Fabric con comandos personalizados.
+- 👨‍💻 **DevPlugins Hell**  
+  Servidor donde publico mis plugins, doy soporte, y comparto utilidades.
 
-🤖 VerifyBotJS (Node.js)
-Bot de Discord para verificar usuarios mediante reacciones y códigos.
+- 🧪 **BetaTesters**  
+  Grupo privado de testeo donde lanzo versiones beta de mis mods, bots y plugins.
 
-📫 Contacto
-<p align="left"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> <strong>hell#0000</strong> </p> ```
+---
+
+## 📦 Proyectos destacados
+
+- 🧊 **StaffTeamHelp**  
+  Plugin de administración para staff con freeze, vanish, chatfreeze, staffchat y más.
+
+- 🔐 **Discord OTP Verifier**  
+  Sistema seguro para vincular cuentas de Minecraft y Discord usando códigos OTP.
+
+- 🗺️ **WorldDump**  
+  Plugin que guarda los chunks cargados en sesiones únicas para revisión del mundo.
+
+- ⚙️ **ClientUtils Fabric**  
+  Utilidades internas para clientes de Minecraft hechos en Fabric con comandos personalizados.
+
+- 🤖 **VerifyBotJS** *(Node.js)*  
+  Bot de Discord para verificar usuarios mediante reacciones y códigos.
+
+---
+
+## 📫 Contacto
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <strong>hell#0000</strong>
+</p>
