@@ -36,17 +36,17 @@
 
 ## 🌍 Servidores de Minecraft
 
-- 🛡️ **ParadiseMC**  
-  Red de PvP moderado con herramientas de staff, inspección, y logs avanzados.
+- 🛡️ **MineCloud**  
+  Red pública de Box PvP con kits personalizados, inspección y herramientas de staff.
 
-- 🌲 **ShadowSurvival**  
-  Survival técnico con economía, habilidades y protección de zonas.
+- 🌲 **Minelow**  
+  Servidor dedicado a Box PvP con sistemas optimizados y gestión de combate.
 
-- ❄️ **FreezeLand**  
-  Red de práctica para pruebas de staff y comandos personalizados.
+- ❄️ **Skymc**  
+  Servidor híbrido con modo Survival técnico y zona de Box PvP activa.
 
-- 🧪 **DevZone**  
-  Servidor privado de testeo para mis proyectos en Java y Fabric.
+- 🧪 **Assaultmc**  
+  PvP avanzado con modalidad Pot PvP y soporte para combates intensos tipo Box PvP.
 
 ---
 
