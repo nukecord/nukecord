@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Desarrollador+de+Minecraft+Plugins;Java+%2F+Python+%2F+Node.js+%2F+HTML;Back-End+%7C+StaffTools+%7C+Modding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=450&lines=Desarrollador+de+Minecraft+Plugins;Java+%2F+Python+%2F+Node.js+%2F+HTML;Staff+Tools+%2F+Fabric+%2F+Spigot+%2F+Discord+Bots" alt="Typing SVG" />
 </p>
 
 ---
@@ -23,13 +23,61 @@
 
 ---
 
-## 📊 Skills (nivel aproximado)
+## 📊 Skills
 
-```txt
-🟧 Java              ██████████░░░  80%
-🟦 Node.js           ████████░░░░  70%
-🐍 Python            ████████░░░░  65%
-🌐 HTML/CSS          ███████░░░░░  60%
-🎮 Minecraft Plugins ██████████░░  85%
-📁 Git / GitHub      ███████░░░░░  60%
+| Tecnología         | Nivel |
+|--------------------|-------|
+| Java               | ![80%](https://progress-bar.dev/80/?title=Java&width=300&color=ED8B00)  
+| Node.js            | ![70%](https://progress-bar.dev/70/?title=Node.js&width=300&color=6DA55F)
+| Python             | ![65%](https://progress-bar.dev/65/?title=Python&width=300&color=3776AB)
+| HTML/CSS           | ![60%](https://progress-bar.dev/60/?title=HTML/CSS&width=300&color=E34F26)
+| Minecraft Plugins  | ![85%](https://progress-bar.dev/85/?title=Plugins&width=300&color=62B84B)
+| Git/GitHub         | ![60%](https://progress-bar.dev/60/?title=Git&width=300&color=F05032)
 
+---
+
+## 🌍 Servidores de Minecraft
+
+- **ParadiseMC** – Red de PvP moderado con herramientas de staff, inspección, y logs avanzados.
+- **ShadowSurvival** – Survival técnico con economía, habilidades y protección de zonas.
+- **FreezeLand** – Red de práctica para pruebas de staff y comandos personalizados.
+- **DevZone** – Servidor privado de testeo para mis proyectos en Java y Fabric.
+
+---
+
+## 🌐 Servidores de Discord
+
+- **StaffControl Discord** – Servidor de soporte y gestión de staff en servidores MC.
+- **DevPlugins Hell** – Comunidad de desarrolladores de plugins y soporte personalizado.
+- **BetaTesters** – Servidor privado donde testeo mis sistemas antes de lanzarlos.
+
+---
+
+## 📦 Proyectos destacados
+
+- **StaffTeamHelp**  
+  Plugin de administración para staff con freeze, vanish, chatfreeze, inspección y más.
+
+- **Discord OTP Verifier**  
+  Autenticación Minecraft <-> Discord vía código OTP para prevenir robos.
+
+- **WorldDump**  
+  Sistema de guardado de chunks para staff y desarrolladores.
+
+- **ClientUtils Fabric**  
+  Utilidades internas para clientes de Minecraft modificados (Fabric).
+
+---
+
+## 📫 Contacto
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <strong>hell#0000</strong>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hell&show_icons=true&theme=tokyonight" />
+</p>
