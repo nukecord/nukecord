@@ -32,45 +32,44 @@
 🌐 HTML/CSS          ██████░░░░░░░░  60%
 🎮 Minecraft Plugins ██████████░░░░  85%
 🔧 Git / GitHub      ██████░░░░░░░░  60%
+🌍 Servidores de Minecraft
+🛡️ ParadiseMC
+Red de PvP moderado con herramientas de staff, inspección, y logs avanzados.
 
----
+🌲 ShadowSurvival
+Survival técnico con economía, habilidades y protección de zonas.
 
-## 🌍 Servidores de Minecraft
+❄️ FreezeLand
+Red de práctica para pruebas de staff y comandos personalizados.
 
-- **ParadiseMC** – Red de PvP moderado con herramientas de staff, inspección, y logs avanzados.  
-- **ShadowSurvival** – Survival técnico con economía, habilidades y protección de zonas.  
-- **FreezeLand** – Red de práctica para pruebas de staff y comandos personalizados.  
-- **DevZone** – Servidor privado de testeo para mis proyectos en Java y Fabric.  
+🧪 DevZone
+Servidor privado de testeo para mis proyectos en Java y Fabric.
 
----
+🌐 Servidores de Discord
+🛠️ StaffControl Discord
+Comunidad de staff de servidores Minecraft con herramientas y soporte.
 
-## 🌐 Servidores de Discord
+👨‍💻 DevPlugins Hell
+Servidor donde publico mis plugins, doy soporte, y comparto utilidades.
 
-- **StaffControl Discord** – Servidor de soporte y gestión de staff en servidores MC.  
-- **DevPlugins Hell** – Comunidad de desarrolladores de plugins y soporte personalizado.  
-- **BetaTesters** – Servidor privado donde testeo mis sistemas antes de lanzarlos.  
+🧪 BetaTesters
+Grupo privado de testeo donde lanzo versiones beta de mis mods, bots y plugins.
 
----
+📦 Proyectos destacados
+🧊 StaffTeamHelp
+Plugin de administración para staff con funciones como freeze, vanish, chatfreeze, staffchat y más.
 
-## 📦 Proyectos destacados
+🔐 Discord OTP Verifier
+Sistema seguro para vincular cuentas de Minecraft y Discord usando códigos OTP.
 
-- **StaffTeamHelp**  
-  Plugin de administración para staff con freeze, vanish, chatfreeze, inspección y más.
+🗺️ WorldDump
+Plugin que guarda los chunks cargados en sesiones únicas para revisión del mundo.
 
-- **Discord OTP Verifier**  
-  Autenticación Minecraft <-> Discord vía código OTP para prevenir robos.
+⚙️ ClientUtils Fabric
+Utilidades internas para clientes de Minecraft hechos en Fabric con comandos personalizados.
 
-- **WorldDump**  
-  Sistema de guardado de chunks para staff y desarrolladores.
+🤖 VerifyBotJS (Node.js)
+Bot de Discord para verificar usuarios mediante reacciones y códigos.
 
-- **ClientUtils Fabric**  
-  Utilidades internas para clientes de Minecraft modificados (Fabric).
-
----
-
-## 📫 Contacto
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <strong>hell#0000</strong>
-</p>
+📫 Contacto
+<p align="left"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /> <strong>hell#0000</strong> </p> ```
