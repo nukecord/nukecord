@@ -23,33 +23,49 @@
 
 ---
 
-## 📊 Skills
+## 📊 Skills (nivel visual real)
 
-| Tecnología         | Nivel |
-|--------------------|-------|
-| Java               | ![80%](https://progress-bar.dev/80/?title=Java&width=300&color=ED8B00)  
-| Node.js            | ![70%](https://progress-bar.dev/70/?title=Node.js&width=300&color=6DA55F)
-| Python             | ![65%](https://progress-bar.dev/65/?title=Python&width=300&color=3776AB)
-| HTML/CSS           | ![60%](https://progress-bar.dev/60/?title=HTML/CSS&width=300&color=E34F26)
-| Minecraft Plugins  | ![85%](https://progress-bar.dev/85/?title=Plugins&width=300&color=62B84B)
-| Git/GitHub         | ![60%](https://progress-bar.dev/60/?title=Git&width=300&color=F05032)
+<p>
+  <strong>Java</strong><br>
+  <progress value="80" max="100"></progress> 80%
+</p>
+<p>
+  <strong>Node.js</strong><br>
+  <progress value="70" max="100"></progress> 70%
+</p>
+<p>
+  <strong>Python</strong><br>
+  <progress value="65" max="100"></progress> 65%
+</p>
+<p>
+  <strong>HTML/CSS</strong><br>
+  <progress value="60" max="100"></progress> 60%
+</p>
+<p>
+  <strong>Minecraft Plugins</strong><br>
+  <progress value="85" max="100"></progress> 85%
+</p>
+<p>
+  <strong>Git / GitHub</strong><br>
+  <progress value="60" max="100"></progress> 60%
+</p>
 
 ---
 
 ## 🌍 Servidores de Minecraft
 
-- **ParadiseMC** – Red de PvP moderado con herramientas de staff, inspección, y logs avanzados.
-- **ShadowSurvival** – Survival técnico con economía, habilidades y protección de zonas.
-- **FreezeLand** – Red de práctica para pruebas de staff y comandos personalizados.
-- **DevZone** – Servidor privado de testeo para mis proyectos en Java y Fabric.
+- **ParadiseMC** – Red de PvP moderado con herramientas de staff, inspección, y logs avanzados.  
+- **ShadowSurvival** – Survival técnico con economía, habilidades y protección de zonas.  
+- **FreezeLand** – Red de práctica para pruebas de staff y comandos personalizados.  
+- **DevZone** – Servidor privado de testeo para mis proyectos en Java y Fabric.  
 
 ---
 
 ## 🌐 Servidores de Discord
 
-- **StaffControl Discord** – Servidor de soporte y gestión de staff en servidores MC.
-- **DevPlugins Hell** – Comunidad de desarrolladores de plugins y soporte personalizado.
-- **BetaTesters** – Servidor privado donde testeo mis sistemas antes de lanzarlos.
+- **StaffControl Discord** – Servidor de soporte y gestión de staff en servidores MC.  
+- **DevPlugins Hell** – Comunidad de desarrolladores de plugins y soporte personalizado.  
+- **BetaTesters** – Servidor privado donde testeo mis sistemas antes de lanzarlos.  
 
 ---
 
@@ -74,10 +90,4 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <strong>hell#0000</strong>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hell&show_icons=true&theme=tokyonight" />
 </p>
