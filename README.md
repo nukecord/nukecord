@@ -55,11 +55,8 @@
 - 🛠️ **StaffControl Discord**  
   Comunidad de staff de servidores Minecraft con herramientas y soporte.
 
-- 👨‍💻 **DevPlugins Hell**  
+- 👨‍💻 **Hydra Projetcs**  
   Servidor donde publico mis plugins, doy soporte, y comparto utilidades.
-
-- 🧪 **BetaTesters**  
-  Grupo privado de testeo donde lanzo versiones beta de mis mods, bots y plugins.
 
 ---
 
@@ -71,20 +68,11 @@
 - 🔐 **Discord OTP Verifier**  
   Sistema seguro para vincular cuentas de Minecraft y Discord usando códigos OTP.
 
-- 🗺️ **WorldDump**  
-  Plugin que guarda los chunks cargados en sesiones únicas para revisión del mundo.
-
-- ⚙️ **ClientUtils Fabric**  
-  Utilidades internas para clientes de Minecraft hechos en Fabric con comandos personalizados.
-
-- 🤖 **VerifyBotJS** *(Node.js)*  
-  Bot de Discord para verificar usuarios mediante reacciones y códigos.
-
 ---
 
 ## 📫 Contacto
 
 <p align="left">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <strong>hell#0000</strong>
+  <strong>infiernno</strong>
 </p>
